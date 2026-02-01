@@ -20,14 +20,14 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 ## 🛠️ How to Run Locally
 1. Clone the repo:
    `git clone <your-repo-url>`
-2. Create a virtual environment:
+3. Create a virtual environment:
    `python -m venv venv`
-3. Activate it:
+4. Activate it:
    - Windows: `venv\Scripts\activate`
    - Mac/Linux: `source venv/bin/activate`
-4. Install Django:
+5. Install Django:
    `pip install django pillow`
-5. Run migrations:
+6. Run migrations:
    `python manage.py migrate`
-6. Start the server:
+7. Start the server:
    `python manage.py runserver`
