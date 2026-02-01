@@ -29,5 +29,5 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
    `pip install django pillow`
 ### * 5. Run migrations:
    `python manage.py migrate`
-7. Start the server:
+### * 6. Start the server:
    `python manage.py runserver`
