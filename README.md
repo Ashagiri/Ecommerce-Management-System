@@ -27,7 +27,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
    - Mac/Linux: `source venv/bin/activate`
 ### * 4. Install Django:
    `pip install django pillow`
-6. Run migrations:
+### * 5. Run migrations:
    `python manage.py migrate`
 7. Start the server:
    `python manage.py runserver`
