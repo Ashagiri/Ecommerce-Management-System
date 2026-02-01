@@ -22,7 +22,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
    git clone <your-repo-url>
 ### * 2. Create a virtual environment:
    python -m venv venv
-4. Activate it:
+### * 3. Activate it:
    - Windows: venv\Scripts\activate
    - Mac/Linux: `source venv/bin/activate`
 5. Install Django:
