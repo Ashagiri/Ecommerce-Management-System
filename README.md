@@ -25,7 +25,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 ### * 3. Activate it:
    - Windows: venv\Scripts\activate
    - Mac/Linux: `source venv/bin/activate`
-5. Install Django:
+### * 4. Install Django:
    `pip install django pillow`
 6. Run migrations:
    `python manage.py migrate`
