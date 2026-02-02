@@ -1,9 +1,10 @@
-# Ecommerce-Management-System
+
 # Ecommerce Management System (Django)
 
 A robust ecommerce platform built with **Python** and **Django**. This system manages products, customer orders, and provides a powerful admin interface for inventory control.
 
 ## 🚀 Tech Stack
+
 * **Framework:** Django (Python)
 * **Database:** SQLite (Development) / PostgreSQL (Production)
 * **Templating:** Django Template Language (HTML/CSS)
@@ -17,17 +18,23 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 * **Users:** Custom user model for customers and staff.
 
 ## 🛠️ How to Run Locally
+<<<<<<< HEAD
 1. Clone the repo:
    `git clone <your-repo-url>`
    
 2. Create a virtual environment:
+=======
+### * 1. Clone the repo:
+   git clone `<your-repo-url>`
+### * 2. Create a virtual environment:
+>>>>>>> d8487126f6bb57d376dca31c8928292a578ea45e
    `python -m venv venv`
-3. Activate it:
+### * 3. Activate it:
    - Windows: `venv\Scripts\activate`
    - Mac/Linux: `source venv/bin/activate`
-4. Install Django:
+### * 4. Install Django:
    `pip install django pillow`
-5. Run migrations:
+### * 5. Run migrations:
    `python manage.py migrate`
-6. Start the server:
+### * 6. Start the server:
    `python manage.py runserver`
