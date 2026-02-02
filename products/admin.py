@@ -1,4 +1,3 @@
-# Register your models here.
 from django.contrib import admin
 from .models import Category, Product
 
@@ -9,7 +8,8 @@ class CategoryAdmin(admin.ModelAdmin):
 
 @admin.register(Product)
 class ProductAdmin(admin.ModelAdmin):
-    list_display = ['name', 'price', 'stock', 'available', 'created']
-    list_filter = ['available', 'created']
+    list_display = ['name', 'price', 'stock', 'available']
+    list_filter = ['available']
     list_editable = ['price', 'stock', 'available']
-    prepopulated_fields = {'slug': ('name',)}
+    # If you added a slug field to Product, uncomment the line below:
+    # prepopulated_fields = {'slug': ('name',)}
