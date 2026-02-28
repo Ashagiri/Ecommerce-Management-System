@@ -8,6 +8,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 * **Styling:** Bootstrap 5
 
 ## 📦 Project Structure (Planned)
+
 * **Core:** Project configuration and settings.
 * **Products:** Catalog, categories, and inventory management.
 * **Cart:** Session-based shopping cart for customers.
