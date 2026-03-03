@@ -4,6 +4,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 
 piyu bole piya bole
 dil ke jo bathe hai 
+bate jo dil ki hai 
 
 ## 🚀 Tech Stack
 
