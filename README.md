@@ -4,7 +4,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 
 piyu bole piya bole
 kya hai bole 
-janu na 
+
 
 
 ## 🚀 Tech Stack
