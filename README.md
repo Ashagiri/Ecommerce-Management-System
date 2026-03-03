@@ -3,6 +3,8 @@
 A robust ecommerce platform built with **Python** and **Django**. This system manages products, customer orders, and provides a powerful admin interface for inventory control.
 
 piyu bole piya bole
+kya hai bole 
+janu na 
 dil ke jo bathe hai 
 bate jo dil ki hai 
 
