@@ -6,7 +6,6 @@ piyu bole piya bole
 kya hai bole 
 janu na 
 dil ke jo bathe hai 
-bate jo dil ki hai  
 
 
 ## 🚀 Tech Stack
