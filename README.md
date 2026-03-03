@@ -4,8 +4,6 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 
 
 
-
-s
 ## 🚀 Tech Stack
 
 * **Framework:** Django (Python)
