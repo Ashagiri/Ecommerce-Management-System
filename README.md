@@ -16,7 +16,6 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 * **Users:** Custom user model for customers and staff.
 
 ## 🛠️ How to Run Locally
-
 1. Clone the repo:
    `git clone <your-repo-url>`
 
