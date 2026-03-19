@@ -14,7 +14,6 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 * **Cart:** Session-based shopping cart for customers.
 * **Orders:** Checkout process and order history.
 * **Users:** Custom user model for customers and staff.
-  
 
 ## 🛠️ How to Run Locally
 
