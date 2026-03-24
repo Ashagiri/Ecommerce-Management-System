@@ -22,7 +22,7 @@ A robust ecommerce platform built with **Python** and **Django**. This system ma
 
 2. Create a virtual environment:
    `python -m venv venv`
-   
+
 3. Activate it:
    - Windows: `venv\Scripts\activate`
    - Mac/Linux: `source venv/bin/activate`
